@@ -1,13 +1,16 @@
 # Getting Started with Create React App
 
-Para rodar projeto abra dois terminais
+Para rodar projeto abra dois terminais na pasta local do projeto
 
-### terminal 1
+### Terminal 1
+
 ```
 npm run server
 
 ```
-### terminal 2
+
+### Terminal 2
+
 ```
 npm start
 
